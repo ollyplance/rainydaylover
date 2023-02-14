@@ -113,6 +113,7 @@ struct ImageTaker: UIViewControllerRepresentable {
     }
 }
 
+// Using PHPicker to get location and date from the images in the photo library
 struct ImagePicker: UIViewControllerRepresentable {
         
     @Binding var selectedImage: Data?

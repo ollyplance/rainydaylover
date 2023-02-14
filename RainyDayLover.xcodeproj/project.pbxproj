@@ -24,7 +24,6 @@
 		382F6F5F292FE37C008AE30F /* SessionAuth.swift in Sources */ = {isa = PBXBuildFile; fileRef = 382F6F5E292FE37C008AE30F /* SessionAuth.swift */; };
 		382F6F61292FE452008AE30F /* RouteView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 382F6F60292FE452008AE30F /* RouteView.swift */; };
 		382F6F63292FEB15008AE30F /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 382F6F62292FEB15008AE30F /* SettingsView.swift */; };
-		38307DC7299060ED00ED4B2D /* CommentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38307DC6299060EC00ED4B2D /* CommentView.swift */; };
 		3834446129243153004770EC /* TabBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3834446029243153004770EC /* TabBarView.swift */; };
 		383444672924399B004770EC /* TabBarContainerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 383444662924399B004770EC /* TabBarContainerView.swift */; };
 		3834446929243CFA004770EC /* AppTabBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3834446829243CFA004770EC /* AppTabBarView.swift */; };
@@ -57,7 +56,6 @@
 		38E4795B297F1FBD0054E098 /* WidgetKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 38E4795A297F1FBD0054E098 /* WidgetKit.framework */; };
 		38E4795D297F1FBD0054E098 /* SwiftUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 38E4795C297F1FBD0054E098 /* SwiftUI.framework */; };
 		38E47960297F1FBD0054E098 /* RainyDayLoverWidgetBundle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38E4795F297F1FBD0054E098 /* RainyDayLoverWidgetBundle.swift */; };
-		38E47962297F1FBD0054E098 /* RainyDayLoverWidgetLiveActivity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38E47961297F1FBD0054E098 /* RainyDayLoverWidgetLiveActivity.swift */; };
 		38E47964297F1FBD0054E098 /* RainyDayLoverWidget.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38E47963297F1FBD0054E098 /* RainyDayLoverWidget.swift */; };
 		38E47966297F1FBF0054E098 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 38E47965297F1FBF0054E098 /* Assets.xcassets */; };
 		38E4796A297F1FC00054E098 /* RainyDayLoverWidgetExtension.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = 38E47958297F1FBD0054E098 /* RainyDayLoverWidgetExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
@@ -117,7 +115,6 @@
 		382F6F5E292FE37C008AE30F /* SessionAuth.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SessionAuth.swift; sourceTree = "<group>"; };
 		382F6F60292FE452008AE30F /* RouteView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RouteView.swift; sourceTree = "<group>"; };
 		382F6F62292FEB15008AE30F /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
-		38307DC6299060EC00ED4B2D /* CommentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentView.swift; sourceTree = "<group>"; };
 		3834446029243153004770EC /* TabBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarView.swift; sourceTree = "<group>"; };
 		383444662924399B004770EC /* TabBarContainerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarContainerView.swift; sourceTree = "<group>"; };
 		3834446829243CFA004770EC /* AppTabBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppTabBarView.swift; sourceTree = "<group>"; };
@@ -141,7 +138,6 @@
 		38E4795A297F1FBD0054E098 /* WidgetKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WidgetKit.framework; path = System/Library/Frameworks/WidgetKit.framework; sourceTree = SDKROOT; };
 		38E4795C297F1FBD0054E098 /* SwiftUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SwiftUI.framework; path = System/Library/Frameworks/SwiftUI.framework; sourceTree = SDKROOT; };
 		38E4795F297F1FBD0054E098 /* RainyDayLoverWidgetBundle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RainyDayLoverWidgetBundle.swift; sourceTree = "<group>"; };
-		38E47961297F1FBD0054E098 /* RainyDayLoverWidgetLiveActivity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RainyDayLoverWidgetLiveActivity.swift; sourceTree = "<group>"; };
 		38E47963297F1FBD0054E098 /* RainyDayLoverWidget.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RainyDayLoverWidget.swift; sourceTree = "<group>"; };
 		38E47965297F1FBF0054E098 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		38E47967297F1FBF0054E098 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -267,7 +263,6 @@
 				38F72A6B2947CC7A009B7E8A /* HelpContentView.swift */,
 				382883AE29480D39009BE4A0 /* UnlockButton.swift */,
 				38B66D2E296CBCD2007CE718 /* LocationView.swift */,
-				38307DC6299060EC00ED4B2D /* CommentView.swift */,
 			);
 			path = Cards;
 			sourceTree = "<group>";
@@ -327,7 +322,6 @@
 			isa = PBXGroup;
 			children = (
 				38E4795F297F1FBD0054E098 /* RainyDayLoverWidgetBundle.swift */,
-				38E47961297F1FBD0054E098 /* RainyDayLoverWidgetLiveActivity.swift */,
 				38E47963297F1FBD0054E098 /* RainyDayLoverWidget.swift */,
 				38E47965297F1FBF0054E098 /* Assets.xcassets */,
 				38E47967297F1FBF0054E098 /* Info.plist */,
@@ -501,7 +495,6 @@
 				3834446129243153004770EC /* TabBarView.swift in Sources */,
 				38F72A662947C82B009B7E8A /* Help.swift in Sources */,
 				388352322923236E009876B3 /* TextEditView.swift in Sources */,
-				38307DC7299060ED00ED4B2D /* CommentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -509,7 +502,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				38E47962297F1FBD0054E098 /* RainyDayLoverWidgetLiveActivity.swift in Sources */,
 				38E479742981E4AE0054E098 /* Secrets.swift in Sources */,
 				38E47960297F1FBD0054E098 /* RainyDayLoverWidgetBundle.swift in Sources */,
 				38E47964297F1FBD0054E098 /* RainyDayLoverWidget.swift in Sources */,

@@ -38,24 +38,24 @@ struct FeedView: View {
                             HStack {
                                 if !(selected.id == post.id && show) {
                                     if (post.uid == currUID) {
-                                        FootstepsView(post: post)
+                                        Spacer()
                                     }
                                     PostCardView(post: $post, show: $show, namespace: namespace)
                                         .shadow(color: Color(post.color), radius: 20, x: 0, y: 15)
                                         .padding(.horizontal)
                                         .modifier(ContextModifier(feedData: feedData, post: post))
                                     if (post.uid != currUID) {
-                                        FootstepsView(post: post)
+                                        Spacer()
                                     }
                                 } else {
                                     if (post.uid == currUID) {
-                                        FootstepsView(post: post)
+                                        Spacer()
                                     }
                                     PostCardGhostView(post: $post)
                                         .padding(.horizontal)
                                         .modifier(ContextModifier(feedData: feedData, post: post))
                                     if (post.uid != currUID) {
-                                        FootstepsView(post: post)
+                                        Spacer()
                                     }
                                 }
                             }
@@ -85,25 +85,6 @@ struct FeedView: View {
             if show {
                 PostView(post: $selected, show: $show, namespace: namespace)
             }
-        }
-    }
-}
-
-struct FootstepsView: View {
-    @State var post: Post
-    var body: some View {
-        if post.size == "landscape" {
-            Image("LandscapeFootsteps")
-                .resizable()
-                .scaledToFit()
-        } else if (post.size == "square") {
-            Image("SquareFootsteps")
-                .resizable()
-                .scaledToFit()
-        } else {
-            Image("TallFootsteps")
-                .resizable()
-                .scaledToFit()
         }
     }
 }

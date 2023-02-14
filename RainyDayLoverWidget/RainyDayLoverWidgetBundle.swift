@@ -12,6 +12,5 @@ import SwiftUI
 struct RainyDayLoverWidgetBundle: WidgetBundle {
     var body: some Widget {
         RainyDayLoverWidget()
-        RainyDayLoverWidgetLiveActivity()
     }
 }
