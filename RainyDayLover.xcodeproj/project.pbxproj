@@ -67,7 +67,6 @@
 		38E4797C29822DC10054E098 /* SDWebImageSwiftUI in Frameworks */ = {isa = PBXBuildFile; productRef = 38E4797B29822DC10054E098 /* SDWebImageSwiftUI */; };
 		38E4797D29822E300054E098 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 382883B42948164D009BE4A0 /* GoogleService-Info.plist */; };
 		38F72A642947C778009B7E8A /* HelpData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38F72A632947C778009B7E8A /* HelpData.swift */; };
-		38F72A662947C82B009B7E8A /* Help.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38F72A652947C82B009B7E8A /* Help.swift */; };
 		38F72A682947CC35009B7E8A /* HelpCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38F72A672947CC35009B7E8A /* HelpCardView.swift */; };
 		38F72A6C2947CC7A009B7E8A /* HelpContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38F72A6B2947CC7A009B7E8A /* HelpContentView.swift */; };
 /* End PBXBuildFile section */
@@ -145,7 +144,6 @@
 		38E479722981C9B50054E098 /* Secrets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Secrets.swift; sourceTree = "<group>"; };
 		38E4797E29822E570054E098 /* RainyDayLoverWidgetExtension.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = RainyDayLoverWidgetExtension.entitlements; sourceTree = "<group>"; };
 		38F72A632947C778009B7E8A /* HelpData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HelpData.swift; sourceTree = "<group>"; };
-		38F72A652947C82B009B7E8A /* Help.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Help.swift; sourceTree = "<group>"; };
 		38F72A672947CC35009B7E8A /* HelpCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HelpCardView.swift; sourceTree = "<group>"; };
 		38F72A6B2947CC7A009B7E8A /* HelpContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HelpContentView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -245,7 +243,6 @@
 				387433A82923E5CC0099C41D /* FileManagerExtension.swift */,
 				383444832925DFE2004770EC /* DateFunctions.swift */,
 				38F72A632947C778009B7E8A /* HelpData.swift */,
-				38F72A652947C82B009B7E8A /* Help.swift */,
 			);
 			path = Data;
 			sourceTree = "<group>";
@@ -493,7 +490,6 @@
 				38E479732981C9B50054E098 /* Secrets.swift in Sources */,
 				38D3D9F629520062006B1E67 /* Profile.swift in Sources */,
 				3834446129243153004770EC /* TabBarView.swift in Sources */,
-				38F72A662947C82B009B7E8A /* Help.swift in Sources */,
 				388352322923236E009876B3 /* TextEditView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
