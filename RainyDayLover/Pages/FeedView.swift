@@ -70,7 +70,7 @@ struct FeedView: View {
                                     show = true
                                 }
                             }
-                            .padding(0)
+                            .padding(.bottom, 50)
                         }
                         .scrollContentBackground(.hidden)
                         .listStyle(.plain)

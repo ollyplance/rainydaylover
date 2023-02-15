@@ -47,10 +47,6 @@ struct Provider: TimelineProvider {
     }
     
     func fetchFromDB(completion: @escaping ((PhotoModel) -> ())) {
-        guard Auth.auth().currentUser != nil else {
-            completion(PhotoModel(data: nil, error: "Please log in"))
-            return
-        }
         let db = Firestore.firestore().collection("posts").order(by: "date", descending: true).limit(to: 1)
         db.getDocuments { (snap, err) in
             guard let documents = snap?.documents else {
