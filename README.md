@@ -1,13 +1,13 @@
 
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://raw.githubusercontent.com/ollylance/rainydaylover/master/Docs/Assets/Artwork.png" alt="montavie" width="200"></a>
+  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://raw.githubusercontent.com/ollyplance/rainydaylover/master/Docs/Assets/Artwork.png" alt="montavie" width="200"></a>
   <br>
   rainydaylover
   <br>
 </h1>
 
-<h4 align="center">A social app for <a href="https://www.linkedin.com/in/oliverplance" target="_blank">@oliverplance</a> and <a href="https://www.linkedin.com/in/tessabruneau" target="_blank">@tessabruneau</a> as Oliver attempts to hike the Appalachian Trail.</h4>
+<h4 align="center">A social app for <a href="https://www.linkedin.com/in/ollyplance" target="_blank">@ollyplance</a> and <a href="https://www.linkedin.com/in/tessabruneau" target="_blank">@tessabruneau</a> as Oliver attempts to hike the Appalachian Trail.</h4>
 
 <p align="center">
  <a href="#about">About</a> •
@@ -19,10 +19,10 @@
 </p>
 
 <div align="center">
-	<img src="https://raw.githubusercontent.com/ollylance/rainydaylover/master/Docs/Assets/FeedVideo.gif" width="200"/>
-	<img src="https://raw.githubusercontent.com/ollylance/rainydaylover/master/Docs/Assets/PostVideo.gif" width="200"/>
-	<img src="https://raw.githubusercontent.com/ollylance/rainydaylover/master/Docs/Assets/HelpVideo.gif" width="200"/>
-	<img src="https://raw.githubusercontent.com/ollylance/rainydaylover/master/Docs/Assets/ProfileVideo.gif" width="200"/>
+	<img src="https://raw.githubusercontent.com/ollyplance/rainydaylover/master/Docs/Assets/FeedVideo.gif" width="200"/>
+	<img src="https://raw.githubusercontent.com/ollyplance/rainydaylover/master/Docs/Assets/PostVideo.gif" width="200"/>
+	<img src="https://raw.githubusercontent.com/ollyplance/rainydaylover/master/Docs/Assets/HelpVideo.gif" width="200"/>
+	<img src="https://raw.githubusercontent.com/ollyplance/rainydaylover/master/Docs/Assets/ProfileVideo.gif" width="200"/>
 </div>
 
 ## About
@@ -53,11 +53,11 @@ This app is Unlisted on the app store and only available for Oliver and Tessa.
 ## Screenshots
 
 <div align="center">
-	<img src="https://raw.githubusercontent.com/ollylance/rainydaylover/master/Docs/Assets/screenshot1.jpeg" width="200"/>
-	<img src="https://raw.githubusercontent.com/ollylance/rainydaylover/master/Docs/Assets/screenshot2.jpeg" width="200"/>
-	<img src="https://raw.githubusercontent.com/ollylance/rainydaylover/master/Docs/Assets/screenshot3.jpeg" width="200"/>
-	<img src="https://raw.githubusercontent.com/ollylance/rainydaylover/master/Docs/Assets/screenshot4.jpeg" width="200"/>
-	<img src="https://raw.githubusercontent.com/ollylance/rainydaylover/master/Docs/Assets/screenshot5.PNG" width="200"/>
+	<img src="https://raw.githubusercontent.com/ollyplance/rainydaylover/master/Docs/Assets/screenshot1.jpeg" width="200"/>
+	<img src="https://raw.githubusercontent.com/ollyplance/rainydaylover/master/Docs/Assets/screenshot2.jpeg" width="200"/>
+	<img src="https://raw.githubusercontent.com/ollyplance/rainydaylover/master/Docs/Assets/screenshot3.jpeg" width="200"/>
+	<img src="https://raw.githubusercontent.com/ollyplance/rainydaylover/master/Docs/Assets/screenshot4.jpeg" width="200"/>
+	<img src="https://raw.githubusercontent.com/ollyplance/rainydaylover/master/Docs/Assets/screenshot5.PNG" width="200"/>
 </div>
 
 
@@ -66,7 +66,7 @@ You can contact support through any of the following means:
 >
 > Instagram: [@themontavie](https://www.instagram.com/themontavie)
 >
-> Email:  [olly.lance15@gmail.com](mailto:olly.lance15@gmail.com)
+> Email:  [ollyplance@gmail.com](mailto:ollyplance@gmail.com)
 > 
 > Phone: 717-553-3107 
 > 
@@ -132,7 +132,7 @@ This policy is effective as of 2022-12-22
 
 **Contact Us**
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at olly.lance15@gmail.com.
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at ollyplance@gmail.com.
 
 
 ---
